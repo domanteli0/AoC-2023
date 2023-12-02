@@ -27,3 +27,4 @@ executables:
     - -with-rtsopts=-N
     dependencies:
     - AoC2023
+    - basement
